@@ -25,7 +25,7 @@ Run: R/01_BSIMMS_Three_Scenarios.R
 → Runs three Bayesian mixing model scenarios.
 Run: R/02_Col-Ap_AND_diachronic.R
 → Performs collagen–apatite spacing and marine contribution analysis and diachronic analyses.
-Run: R/03_Tieszen_Comparison.R
+Run: R/03_TieszenEtAL_Comparison.R
 → Compares settlement isotope values to Tieszen reference values.
 Run: R/04_Metrics.R
 → Calculates convex hull, isotopic ranges, trophic position, and creates the isotope biplot.
