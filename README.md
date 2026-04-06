@@ -1,6 +1,6 @@
 Stable Isotope Bayesian Mixing Models and Collagen–Apatite Analysis
 This repository contains all R scripts and data used in the publication:
-[PUT YOUR FULL PAPER TITLE HERE]
+**[PUT YOUR FULL PAPER TITLE HERE]**
 Repository Structure
 data/
 → All raw CSV files used for analysis
