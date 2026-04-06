@@ -23,12 +23,12 @@ install.packages(c("MixSIAR","tidyverse","R2jags","rjags","geometry","sp"))
 Analysis Workflow
 Run: R/01_BSIMMS_Three_Scenarios.R
 → Runs three Bayesian mixing model scenarios.
-Run: R/02_Collagen_Apatite_Analysis.R
+Run: R/02_Col-Ap_AND_diachronic.R
 → Performs collagen–apatite spacing and marine contribution analysis and diachronic analyses.
-Run: R/03_Isospace_Metrics_and_Plot.R
-→ Calculates convex hull, isotopic ranges, trophic position, and creates the isotope biplot.
-Run: R/04_Tieszen_Comparison.R
+Run: R/03_Tieszen_Comparison.R
 → Compares settlement isotope values to Tieszen reference values.
+Run: R/04_Metrics.R
+→ Calculates convex hull, isotopic ranges, trophic position, and creates the isotope biplot.
 Reproducibility
 Open the R project file (.Rproj) and run scripts from the project root.
 No setwd() commands are required.
