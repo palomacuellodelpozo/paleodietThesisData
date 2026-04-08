@@ -1,0 +1,262 @@
+SampleID,Specimen,Category,Site,Sr,d18O,d13Cap,d15N,d13Ccol,C14_cal_AD,dates,LAT,LONG
+TF006,Lizard,Fau,Teno,0.70799,,,,,,,28.3607,-16.897
+TF023,Pig,Fau,Las Estacas,0.70684,-0.92,,,,,,28.3701,-16.871
+TF024,Ovicaprid,Fau,Las Estacas,0.70671,1.3,,,,,,28.3701,-16.871
+TF013,Lizard,Fau,El Pleito,0.70538,,,,,,,28.3623,-16.8614
+PY01,Human,Human,Pico Yeje,0.70583,-0.09,-13.4,,,,,28.31,-16.85
+PY02,Human,Human,Pico Yeje,0.70525,-1.41,-15.86,10.74,-19.42,413-542,533,28.31,-16.85
+PY03,Human,Human,Pico Yeje,0.70528,-2.05,-15.1,11.31,-19.01,442-645,620,28.31,-16.85
+PY04,Human,Human,Pico Yeje,0.70503,-0.31,-15.09,13.51,-18.76,542-646,627,28.31,-16.85
+PY05,Human,Human,Pico Yeje,0.70494,-1.39,-14.83,12.36,-18.58,417-553,557,28.31,-16.85
+PY06,Human,Human,Pico Yeje,0.70477,0.72,-15.65,10.34,-19.76,1047-1222,1226,28.31,-16.85
+TF007,Lizard,Fau,Mt. de Taco,0.70719,,,,,,,28.372,-16.8334
+TF010,Lizard,Fau,Lomo Molino,0.70543,,,,,,,28.3585,-16.7849
+TF004,Rabbit,Fau,Garachico,0.70664,,,,,,,28.3732,-16.7801
+MJG01,Human,Human,Majagora,0.70608,-1.49,-14.78,9.74,-19.89,887 – 1020,1013,28.1782,-16.732
+MJG02,Human,Human,Majagora,0.70584,0.29,-14.99,9.99,-19.1,1034 – 1203,1193,28.1782,-16.732
+MJG03,Human,Human,Majagora,0.70571,-0.33,-14.52,9.63,-19.36,996 – 1155,1124,28.1782,-16.732
+MJG04,Human,Human,Majagora,0.7064,-0.33,-14.81,10.25,-19.67,1027 – 1198,1178,28.1782,-16.732
+MJG05,Human,Human,Majagora,0.70584,0.14,-14.98,11.06,-19.06,,,28.1782,-16.732
+MJG06,Human,Human,Majagora,0.70682,-1.69,-15.84,10.01,-19.12,775 – 989,1210,28.1782,-16.732
+MJG07,Human,Human,Majagora,0.70616,-1.32,-14.68,11.83,-18.69,1031 – 1198,964,28.1782,-16.732
+MJG08,Human,Human,Majagora,0.70671,0.52,-15.84,11.78,-18.95,707 – 954,927,28.1782,-16.732
+MJG09,Human,Human,Majagora,0.70664,-0.45,-15.32,9.99,-19.4,,,28.1782,-16.732
+MJG10,Human,Human,Majagora,0.70683,-0.99,-15.17,9.79,-20.48,991 – 1153,1104,28.1782,-16.732
+TF020,Pig,Fau,Las Palomas,0.70635,-2.66,,,,,,28.3629,-16.7268
+TF021,Ovicaprid,Fau,Las Palomas,0.7068,-2.22,,,,,,28.3629,-16.7268
+TF025,Ovicaprid,Fau,Las Palomas,0.70601,1.23,,,,,,28.3629,-16.7268
+TF026,Ovicaprid,Fau,Las Palomas,0.7043,1.38,,,,,,28.3629,-16.7268
+TF030,Pig,Fau,CP.86 Icod,0.705749,-1.94,-13.31,,,,,28.368992,-16.7115
+TF034,Ovicaprid,Fau,CP.86 Icod,0.705845,0.69,-13.59,,,,,28.368992,-16.7115
+TF001,Rabbit,Fau,Macizo de Adeje,0.70551,,,,,,,28.1002,-16.7004
+TF002,Rabbit,Fau,Macizo de Adeje,0.70551,,,,,,,28.1002,-16.7004
+TF027,Ovicaprid,Fau,Cueva de los Guanches.89,0.707408,-2.66,-13.42,,,,,28.365664,-16.689772
+TF028,Ovicaprid,Fau,Cueva de los Guanches.89,0.70674,3.19,-11.83,,,,,28.365664,-16.689772
+TF029,Ovicaprid,Fau,Cueva de los Guanches.89,0.706729,3.93,-11.05,,,,,28.365664,-16.689772
+TF011,Rabbit,Fau,Guaza,0.70811,,,,,,,28.042,-16.683
+TF005,Lizard,Fau,Roque San Juan de la Rambla,0.70905,,,,,,,28.3968,-16.6484
+TF009,Rabbit,Fau,San Miguel de Abo,0.70848,,,,,,,28.0156,-16.6378
+HB-M1,Human,Human,Hoya Brunco,0.70623,-0.78,-13.07,,,,,28.345,-16.6365
+HB-M10,Human,Human,Hoya Brunco,0.70633,-1.36,-16.12,,,,,28.345,-16.6365
+HB-M11,Human,Human,Hoya Brunco,0.70596,-0.03,-13.08,12.9,-18.3,1306-1366,,28.345,-16.6365
+HB-M13,Human,Human,Hoya Brunco,0.70621,-0.73,-15.7,,,,,28.345,-16.6365
+HB-M14,Human,Human,Hoya Brunco,,,,12.2,-19,1179-1191,,28.345,-16.6365
+HB-M15,Human,Human,Hoya Brunco,0.705138,0.87,-14.98,,,,,28.345,-16.6365
+HB-M3,Human,Human,Hoya Brunco,0.705227,,,,,,,28.345,-16.6365
+HB-M4,Human,Human,Hoya Brunco,0.705218,-1.85,-13.41,,,,,28.345,-16.6365
+HB-M5,Human,Human,Hoya Brunco,0.705885,-0.5,-13.54,,,,,28.345,-16.6365
+HB-M6,Human,Human,Hoya Brunco,0.706292,-1.38,-13.05,,,,,28.345,-16.6365
+HB-M7,Human,Human,Hoya Brunco,0.705914,0.32,-13.56,,,,,28.345,-16.6365
+HB-M8,Human,Human,Hoya Brunco,0.705108,-0.54,-13.97,,,,,28.345,-16.6365
+HB-M9,Human,Human,Hoya Brunco,0.705131,0.6,-14.18,,,,,28.345,-16.6365
+TF012,Plant,Flora,Gradilla de Abo,0.70489,,,,,,,28.1183,-16.6211
+UV01,Human,Human,Uchova,0.70606,-1.15,-16.16,12.89,-19.12,,,28.09,-16.6
+UV02,Human,Human,Uchova,0.70604,-2.41,-15.45,12.35,-18.96,,,28.09,-16.6
+UV03,Human,Human,Uchova,0.70616,-1.45,-15.41,11.41,-18.69,,,28.09,-16.6
+UV04,Human,Human,Uchova,0.70567,-1.61,-16.06,12.09,-18.24,,,28.09,-16.6
+UV05,Human,Human,Uchova,0.70489,-0.8,-14.99,13.33,-18.99,,,28.09,-16.6
+UV06,Human,Human,Uchova,0.70617,-2.01,-15.99,12.09,-18.48,,,28.09,-16.6
+UV07,Human,Human,Uchova,0.70526,-0.46,-14.26,12.17,-18.8,,,28.09,-16.6
+UV08,Human,Human,Uchova,0.70546,0.79,-13.25,12.32,-19.81,,,28.09,-16.6
+UV09,Human,Human,Uchova,0.70551,-1.74,-13.76,,,,,28.09,-16.6
+UV10,Human,Human,Uchova,0.70715,-1.21,-13.72,11.19,-19.24,,,28.09,-16.6
+UV11,Human,Human,Uchova,0.70541,-1.08,-12.75,10.07,-19.56,,,28.09,-16.6
+UV12,Human,Human,Uchova,0.7056,1.18,-14.25,11.14,-19.53,,,28.09,-16.6
+UV13,Human,Human,Uchova,0.70553,0.31,-13.45,13.13,-19,,,28.09,-16.6
+UV14,Human,Human,Uchova,0.70584,-0.93,-13.26,12.24,-18.71,,,28.09,-16.6
+UV15,Human,Human,Uchova,0.70613,-0.06,-14.26,,,,,28.09,-16.6
+TF022,Ovicaprid,Fau,Cha Silveria,0.70759,-0.19,,,,,,28.031,-16.5753
+CA01,Human,Human,Cruz de las Animas,0.70647,-1.97,-15.76,10.41,-19.77,1274-1392,1350,28.13,-16.56
+CA02,Human,Human,Cruz de las Animas,0.70641,-1.88,-15.39,12.18,-19.04,1295-1399,1388,28.13,-16.56
+CA03,Human,Human,Cruz de las Animas,0.70676,-0.7,-15.24,11.9,-19.64,1295-1399,1388,28.13,-16.56
+CA04,Human,Human,Cruz de las Animas,0.70629,-1.66,-14.74,12.57,-19.53,1278-1394,1352,28.13,-16.56
+CA05,Human,Human,Cruz de las Animas,0.70612,-1.74,-15,11.16,-19.39,775-989,964,28.13,-16.56
+CA06,Human,Human,Cruz de las Animas,0.70674,0,-15.02,13.2,-18.77,1295-1399,1388,28.13,-16.56
+CA07,Human,Human,Cruz de las Animas,0.70606,-1.38,-14.89,11.31,-19.32,1328-1452,1452,28.13,-16.56
+RP01,Human,Human,Risco del Perro,0.70576,0.21,-13.94,12.15,-18.89,,,28.39,-16.52
+RP02,Human,Human,Risco del Perro,0.70581,-0.31,-13.87,,,,,28.39,-16.52
+RP03,Human,Human,Risco del Perro,0.7061,0.5,-14.74,11.35,-18.87,,,28.39,-16.52
+RP04,Human,Human,Risco del Perro,0.70541,-0.57,-13.08,10.74,-19.87,,,28.39,-16.52
+RP05,Human,Human,Risco del Perro,0.70524,-1.59,-15.26,9.49,-19.58,1040-1209,1202,28.39,-16.52
+RP06,Human,Human,Risco del Perro,0.70543,-0.96,-15.06,11.42,-19.57,703-893,908,28.39,-16.52
+RP07,Human,Human,Risco del Perro,0.70535,-1.24,-16.07,10.76,-19.31,703-893,1273,28.39,-16.52
+RP08,Human,Human,Risco del Perro,0.70604,-0.28,-14.82,11.73,-19.42,703-893,1273,28.39,-16.52
+RP09,Human,Human,Risco del Perro,0.70642,-1.2,-14.61,9.55,-19.52,1161-1267,1253,28.39,-16.52
+RP10,Human,Human,Risco del Perro,0.70648,-0.29,-14.66,12.63,-18.55,1045-1211,1207,28.39,-16.52
+RP11,Human,Human,Risco del Perro,0.70582,0.64,-14.06,11.43,-19.17,995-1156,1124,28.39,-16.52
+RP12,Human,Human,Risco del Perro,0.70726,-1.54,-13.55,10.09,-19.29,,,28.39,-16.52
+RP13,Human,Human,Risco del Perro,0.70608,-0.12,-12.78,12.17,-18.57,,,28.39,-16.52
+TF019,Ovicaprid,Fau,Bco. Cabrera,0.70671,-0.29,,,,,,28.4514,-16.437
+TF014,Pig,Fau,El Pris ,0.70726,-0.27,,,,,,28.5093,-16.4211
+TF016,Pig,Fau,La Fuentecilla,0.70699,-0.23,,,,,,28.5146,-16.4181
+TF017,Ovicaprid,Fau,La Fuentecilla,0.70659,-1.3,,,,,,28.5146,-16.4181
+TF018,Ovicaprid,Fau,El Boqueron,0.70697,-0.2,,,,,,28.4947,-16.3733
+TF032,Pig,Fau,Cabezazos (Rajo C),0.707301,-2.15,-13.07,,,,,28.516919,-16.34185
+TF035,Ovicaprid,Fau,Cabezazos,0.70593,-0.14,-15.12,,,,,28.516919,-16.34185
+MG01,Human,Human,Mt. Guerra,0.70624,-1.07,-13.86,9.88,-20.23,661-820,810,28.46,-16.32
+MG02,Human,Human,Mt. Guerra,0.7061,-1.22,-14.89,11.33,-19.22,686-887,882,28.46,-16.32
+MG03,Human,Human,Mt. Guerra,0.70612,-1.8,-15.15,12.28,-18.92,664-819,816,28.46,-16.32
+MG04,Human,Human,Mt. Guerra,0.70648,-1.39,-15.7,10.96,-18.95,672-874,841,28.46,-16.32
+MG05,Human,Human,Mt. Guerra,0.70661,-1.32,-15.17,11.62,-18.49,666-827,826,28.46,-16.32
+MG06,Human,Human,Mt. Guerra,0.70609,-0.22,-14.67,12.7,-18.69,656-773,763,28.46,-16.32
+MG07,Human,Human,Mt. Guerra,0.70628,0.81,-14.14,,,,,28.46,-16.32
+MG08,Human,Human,Mt. Guerra,0.70651,-0.07,-14.52,13.17,-20.14,,,28.46,-16.32
+MG09,Human,Human,Mt. Guerra,0.70526,-0.29,-13.35,,,,,28.46,-16.32
+MG10,Human,Human,Mt. Guerra,0.70585,-1.15,-14.59,10.05,-19.01,,,28.46,-16.32
+MG11,Human,Human,Mt. Guerra,0.70577,0.31,-13.86,,,,,28.46,-16.32
+HF01,Human,Human,Hoya Fria,0.70616,-0.06,-13.91,12.23,-18.6,,,28.43,-16.3
+HF02,Human,Human,Hoya Fria,0.70587,-1.03,-13.57,,,,,28.43,-16.3
+HF03,Human,Human,Hoya Fria,0.7063,0.34,-14.24,10.53,-19.8,,,28.43,-16.3
+HF04,Human,Human,Hoya Fria,0.70648,-0.05,-15.18,11.48,-18.8,,,28.43,-16.3
+HF05,Human,Human,Hoya Fria,0.70635,1.14,-14.72,11.01,-19.45,,,28.43,-16.3
+HF06,Human,Human,Hoya Fria,0.70614,-1.24,-14.76,11.59,-18.99,,,28.43,-16.3
+HF07,Human,Human,Hoya Fria,0.70642,-0.3,-14.37,12.04,-18.25,,,28.43,-16.3
+HF08,Human,Human,Hoya Fria,0.70649,-1.3,-14.22,,,,,28.43,-16.3
+HF09,Human,Human,Hoya Fria,0.70701,-2.26,-13.6,10.72,-19.64,,,28.43,-16.3
+HF10,Human,Human,Hoya Fria,0.70613,0.09,-13.35,11.23,-20.11,,,28.43,-16.3
+HF11,Human,Human,Hoya Fria,0.70681,-0.62,-15.84,10.65,-20.01,1307-1426,1424,28.43,-16.3
+HF12,Human,Human,Hoya Fria,0.70622,0.14,-15.14,10.9,-19.93,1031-1198,1184,28.43,-16.3
+HF13,Human,Human,Hoya Fria,0.70691,-0.3,-15.64,11.2,-20.25,690-888,889,28.43,-16.3
+HF14,Human,Human,Hoya Fria,0.70649,-1.66,-15.81,10.92,-19.65,,,28.43,-16.3
+HF15,Human,Human,Hoya Fria,0.70681,-0.73,-15.61,11.1,-18.83,1031-1198,1184,28.43,-16.3
+HF16,Human,Human,Hoya Fria,0.70675,-0.59,-15.78,10.63,-19.89,,,28.43,-16.3
+HF17,Human,Human,Hoya Fria,0.70705,0.18,-15.55,9.99,-19.9,995-1154,1118,28.43,-16.3
+HF18,Human,Human,Hoya Fria,0.70697,-1.04,-14.65,10.26,-19.9,1023-1158,1147,28.43,-16.3
+HF19,Human,Human,Hoya Fria,0.70593,0.38,-15.39,10.03,-19.42,895-1038,1080,28.43,-16.3
+HF20,Human,Human,Hoya Fria,0.70756,-0.25,-14.49,11.36,-19.34,1028-1165,1174,28.43,-16.3
+TF015,Ovicaprid,Fau,Mt. Guerra,0.70556,0.8,,,,,,28.4781,-16.285
+BS01m1,Human,Human,Bco. Santos,0.70591,-2.71,-13.75,,,,,28.46,-16.27
+BS01m2,Human,Human,Bco. Santos,0.70622,0.54,-14.6,,,,,28.46,-16.27
+BS02,Human,Human,Bco. Santos,0.70623,-1.22,-13.47,10.75,-19.99,,,28.46,-16.27
+BS03,Human,Human,Bco. Santos,0.70577,-0.34,-14.53,10.59,-19.4,,,28.46,-16.27
+BS04,Human,Human,Bco. Santos,0.70646,0.48,-14.07,10.28,-19.56,,,28.46,-16.27
+TF003,Rabbit,Fau,Bco Igueste,0.7046,,,,,,,28.545,-16.1693
+TF008,Rabbit,Fau,Roque Antquera,0.70774,,,,,,,28.5355,-16.1287
+GC087,Plant,Flora,GC-200,0.70673,,,,,,,27.9944,-15.8042
+GC088,T. sil,Fau,GC-200,0.70611,1.26,,,,,,27.9944,-15.8042
+GC106,Ovicaprid,Fau,Los Gatos,0.70659,4.52,,,,,,27.8183,-15.7606
+GC083,Plant,Flora,Bco. de Mogan,0.70631,,,,,,,27.8386,-15.7481
+GC086,T. sil,Fau,Ctra GC200,0.7063,,,,,,,28.06,-15.7294
+GC084,Plant,Flora,Avda Azulejos ,0.70681,,,,,,,27.9222,-15.7258
+GC098,Water,Water,El Charco Azul,0.70375,,,,,,,28.0458,-15.7244
+GC074,Ovicaprid,Fau,GC-505,0.70673,0.58,,,,,,27.8906,-15.6761
+GC109,Ovicaprid,Fau,Cantera Molinos,0.70532,3.13,,,,,,28.08,-15.6719
+GC010,Fish,Fau,Presa de las Ninhas,0.70369,,,,,,,27.8942,-15.6689
+GC075,Plant,Flora,Presa de Soria,0.70558,,,,,,,27.9058,-15.6672
+GC037,Rabbit,Fau,GC-2,0.7056,,,,,,,28.1244,-15.6655
+GC080,Plant,Flora,El Sao,0.70438,,,,,,,27.8228,-15.6653
+GC081,Plant,Flora,El Sao,0.70431,,,,,,,27.8228,-15.6653
+GC078,Plant,Flora,Bco Arguineguin,0.70428,,,,,,,27.7678,-15.665
+GC107,Ovicaprid,Fau,El Llanillo,0.70777,1.6,,,,,,27.757,-15.6542
+GC006,Ovicaprid,Fau,El Hospital,0.70502,-4.01,,,,,,28.1433,-15.65
+GC104,Ovicaprid,Fau,El Hospital,0.70643,0.69,,,,,,28.1433,-15.65
+GC065,Plant,Flora,Palmitos Park,0.7082,,,,,,,27.8183,-15.6211
+GC070,T. sil,Fau,Palmitos Park,0.7083,-1.1,,,,,,27.8183,-15.6211
+GC063,Plant,Flora,El Salobre,0.70589,,,,,,,27.7803,-15.6131
+GC023,Ovicaprid,Fau,Cenobio Valeron,0.70634,-2.24,,,,,,28.1389,-15.6044
+GC072,Ovicaprid,Fau,Cenobio Valeron,0.70681,-1.19,,,,,,28.1389,-15.6044
+GC014,Plant,Flora,Cenobio Valeron,0.70439,,,,,,,28.1392,-15.6036
+GC105,Ovicaprid,Fau,Punta Mujeres,0.70789,4.76,,,,,,27.7374,-15.6027
+GC029,T. sil,Fau,Mirador de Tejeda,0.7036,0.17,,,,,,28.0077,-15.5993
+GC038,Plant,Flora,Bco de los Tilos,0.70456,2.18,,,,,,28.0917,-15.595
+GC041,T. sil,Fau,Bco de los Tilos,0.70456,1.33,,,,,,28.0917,-15.595
+MP01,Human,Human,Maspalomas,0.70627,-1.73,-12.69,,,,,27.7705,-15.5941
+MP02,Human,Human,Maspalomas,0.70568,-2.61,-12.91,,,,,27.7705,-15.5941
+MP03,Human,Human,Maspalomas,0.70491,-2.14,-13.41,,,,,27.7705,-15.5941
+MP04,Human,Human,Maspalomas,706,-1.91,-13.1,,,,,27.7705,-15.5941
+MP05,Human,Human,Maspalomas,0.70569,-2.49,-14.04,,,,,27.7705,-15.5941
+MP06,Human,Human,Maspalomas,0.70557,-1.48,-12.63,,,,,27.7705,-15.5941
+MP07,Human,Human,Maspalomas,0.70543,-1.65,-13.29,,,,,27.7705,-15.5941
+MP08,Human,Human,Maspalomas,0.70652,-2.49,-12.61,,,,,27.7705,-15.5941
+MP09,Human,Human,Maspalomas,0.70649,-1.06,-13.45,,,,,27.7705,-15.5941
+MP10,Human,Human,Maspalomas,0.70704,-1.44,-12.96,,,,,27.7705,-15.5941
+MP11,Human,Human,Maspalomas,0.70667,-1.48,-11.33,11.84,-18.64,,,27.7705,-15.5941
+MP12,Human,Human,Maspalomas,0.70654,-1.42,-9.25,10.83,-18.28,,,27.7705,-15.5941
+MP13,Human,Human,Maspalomas,0.70712,-1.25,-13.63,10.56,-19.23,,,27.7705,-15.5941
+MP14,Human,Human,Maspalomas,0.70714,-1.53,-12.57,12.7,-18.3,,,27.7705,-15.5941
+MP15,Human,Human,Maspalomas,0.70666,-1.53,-13.53,10.74,-19.77,,1565,27.7705,-15.5941
+MP16,Human,Human,Maspalomas,0.70699,-1.71,-10.29,10.76,-19.75,,,27.7705,-15.5941
+MP17,Human,Human,Maspalomas,0.70634,-1.55,-12.69,10.04,-19.64,,,27.7705,-15.5941
+MP18,Human,Human,Maspalomas,0.70671,-1.26,-9.87,11.24,-19.66,,1506,27.7705,-15.5941
+MP19,Human,Human,Maspalomas,0.70709,-0.97,-11.05,11.19,-19.34,,,27.7705,-15.5941
+MP20,Human,Human,Maspalomas,0.70782,-0.93,-13.61,10.56,-18.75,,,27.7705,-15.5941
+GC045,Plant,Flora,Bco Doramas,0.70557,,,,,,,28.1022,-15.5781
+GC024,T. sil,Fau,Valleseco,0.70802,1.36,,,,,,28.0509,-15.5761
+GC103,Ovicaprid,Fau,La Montañeta,0.70511,0.88,,,,,,28.1201,-15.5724
+GC055,Plant,Flora,GC-60,0.70843,,,,,,,27.8383,-15.5708
+GC060,T. sil,Fau,GC-60,0.70846,-0.03,,,,,,27.8383,-15.5708
+GC022,T. sil,Fau,GC-21,0.70531,0.8,,,,,,28.0544,-15.5678
+GC051,Plant,Flora,GC-60,0.70603,,,,,,,27.8886,-15.5633
+GC012,Plant,Flora,Banhaderos,0.70578,,,,,,,28.1442,-15.5586
+GC034,T. sil,Fau,Banhaderos,0.70532,0.03,,,,,,28.1442,-15.5586
+GC044,T. sil,Fau,Banhaderos,0.70572,,,,,,,28.1442,-15.5586
+GC057,Plant,Flora,El Sitio de Arriba,0.70743,,,,,,,27.8886,-15.5575
+GC062,Plant,Flora,GC-65,0.70614,,,,,,,27.9131,-15.5575
+GC050,T. sil,Fau,La Sorrueda,0.70512,0.77,,,,,,27.8936,-15.5472
+GC053,Plant,Flora,La Sorrueda,0.70403,,,,,,,27.8939,-15.5417
+GC099,Water,Water,La Sorrueda,0.70617,,,,,,,27.8903,-15.5417
+GC058,Plant,Flora,La Sorrueda,0.70459,,,,,,,27.8903,-15.54
+GC101,Ovicaprid,Fau,La Cerera,0.70514,1,,,,,,28.121453,-15.523611
+GC046,Plant,Flora,Cardones,0.70621,,,,,,,28.1289,-15.51
+GC048,T. sil,Fau,Cardones,0.70749,0.75,,,,,,28.1289,-15.51
+GC056,Plant,Flora,GC-65,0.70838,,,,,,,27.8692,-15.5092
+GC067,Plant,Flora,Juan Grande,0.70833,,,,,,,27.7881,-15.4994
+GC008,Plant,Flora,Temisas,0.70483,,,,,,,27.9078,-15.4989
+GC017,T. sil,Fau,Bco Cernícalo,0.70414,1.42,,,,,,27.9693,-15.4964
+GC033,Rabbit,Fau,Bco Cernícalo,0.70432,0.05,,,,,,27.9693,-15.4964
+GC108,Ovicaprid,Fau,El Tejar,0.70465,1.05,,,,,,28.0463,-15.4953
+GC031,T. sil,Fau,Bco Morisca,0.7067,0.3,,,,,,27.9486,-15.4819
+GC036,Lizard,Fau,Bco Morisca,0.70557,,,,,,,27.9433,-15.4633
+GC030,T. sil,Fau,Caldera Bandama,0.70453,0.7,,,,,,28.0419,-15.4522
+GC090,Rabbit,Fau,Caldera Bandama,0.70482,1.36,,,,,,28.0419,-15.4522
+GC007,Plant,Flora,Balos,0.70466,,,,,,,27.8693,-15.4494
+GC011,Plant,Flora,Balos,0.70675,,,,,,,27.8693,-15.4494
+GC027,T. sil,Fau,San Juan,0.70443,,,,,,,27.9964,-15.4456
+GC035,Lizard,Fau,Lomo Blanco,0.70674,,,,,,,28.0857,-15.4453
+GC004,T. sil,Fau,Las Coloradas,0.70841,2.9,,,,,,28.1622,-15.4342
+GC005,T. sil,Fau,Las Coloradas,0.70865,,,,,,,28.1622,-15.4342
+GC028,T. sil,Fau,Jimar,0.70614,0.59,,,,,,28.0439,-15.4272
+GC102,Ovicaprid,Fau,Llano de las Brujas,0.70779,1.79,,,,,,28.0292,-15.4259
+GC009,Plant,Flora,Ariga,0.70403,,,,,,,27.8603,-15.4258
+T2-CI-F,Human,Human,Tenefe,,,,11.4,-19.16,1320-1446,,27.817658,-15.421144
+T2-CI-M3,Human,Human,Tenefe,,-2.26,-13.06,,,,,27.817658,-15.421144
+T2-CI-PM1,Human,Human,Tenefe,7.0506,-2.08,-12.73,,,,,27.817658,-15.421144
+T2-CI-R,Human,Human,Tenefe,,-2.63,-8.37,,,,,27.817658,-15.421144
+T4-CI-F,Human,Human,Tenefe,,,,11.9,-19.08,1309-1437,,27.817658,-15.421144
+T4-CI-M3,Human,Human,Tenefe,,-1.8,-12.82,,,,,27.817658,-15.421144
+T4-CI-PM1,Human,Human,Tenefe,0.7057,-2.56,-12.65,,,,,27.817658,-15.421144
+T4-CI-R,Human,Human,Tenefe,,-2.21,-8.56,,,,,27.817658,-15.421144
+GC021,Ovicaprid,Fau,El Cendro,0.70438,-1.21,,,,,,28.0069,-15.4181
+GC032,T. sil,Fau,Ariga,0.70656,0.48,,,,,,27.8603,-15.3964
+GC015,T. sil,Fau,La Restinga,0.70895,0.43,,,,,,28.0286,-15.3936
+GC025,T. sil,Fau,Los Caserones,0.70643,0.69,,,,,,28.0047,-15.3856
+GC068,Plant,Flora,Tufia,0.70824,,,,,,,27.9625,-15.3808
+GC069,T. sil,Fau,Tufia,0.70902,-0.26,,,,,,27.9625,-15.3808
+GC100,Pig,Fau,Los Melones,0.70537,-1.22,,,,,,28.0071,-15.378
+PC-11,T. sil,Fau,Montaña Roja ,0.708872,,,,,,,28.889722,-13.836111
+PC-8,Plant,Flora,Montaña Roja ,0.709075,,,,,,,28.889722,-13.836111
+PC-1,Plant,Flora,Ajaches ,0.70772,,,,,,,28.911111,-13.778611
+PC-5,T. sil,Fau,Ajaches ,0.707956,,,,,,,28.909167,-13.778611
+PC-2,Plant,Flora,Ajaches ,0.705369,,,,,,,28.909444,-13.778333
+PC-7,Caliche ,Caliche ,Ajaches ,0.708421,,,,,,,28.909444,-13.777778
+PC-16,Flora,Flora,Caldereta Tiche ,0.708477,,,,,,,29.053611,-13.666389
+PC-18,Plant,Flora,Caldereta Tiche ,0.708467,,,,,,,29.053611,-13.666389
+PC-19,Plant,Flora,Caldereta Tiche ,0.706881,,,,,,,29.053611,-13.666389
+PC-20,Plant,Flora,Caldereta Tiche ,0.708452,,,,,,,29.053611,-13.666389
+PC-21,Plant,Flora,Caldereta Tiche ,0.708456,,,,,,,29.053611,-13.666389
+PC-34,Plant,Flora,Bebedero ,0.707319,,,,,,,29.057631,-13.626494
+PC-1pt,Ovicaprid,Fau,Buevista ,0.708243,,,,,,,29.057778,-13.620278
+PC-2pt,Ovicaprid,Fau,Buevista ,0.708361,,,,,,,29.057778,-13.620278
+PC-33,Plant,Flora,Buevista ,0.708640,,,,,,,29.057778,-13.620278
+PC-3pt,Ovicaprid,Fau,Buevista ,0.707789,,,,,,,29.057778,-13.620278
+PC-4pt,Ovicaprid,Fau,Buevista ,0.708944,,,,,,,29.057778,-13.620278
+PC-28,Plant,Flora,Tahíche ,0.706498,,,,,,,29.006944,-13.5475
+PC-29,Plant,Flora,Tahíche ,0.708197,,,,,,,29.006944,-13.5475
+PC-30,T. sil,Fau,Buevista ,0.709068,,,,,,,29.006944,-13.5475
+PC-31,Plant,Flora,Guenia ,0.707458,,,,,,,29.075556,-13.4875
+PC-22,Plant,Flora,Máguez ,0.705806,,,,,,,29.170278,-13.485556
+PC-24,Rabbit,Fau,Máguez ,0.705899,,,,,,,29.17,-13.485556
+PC-23,Rabbit,Fau,Máguez ,0.705838,,,,,,,29.170278,-13.485278
+PC-25,Plant,Flora,Tabayesco ,0.706463,,,,,,,29.129167,-13.4825
+PC-26,Plant,Flora,Tabayesco ,0.706575,,,,,,,29.129167,-13.4825
+PC-27,T. sil,Fau,Tabayesco ,0.707677,,,,,,,29.129167,-13.4825

@@ -1,0 +1,115 @@
+source,ID,d15N,d13Ccol,d13Cap,Settlement,Region
+This,BS1m,NA,NA,-13.75,Barranco Santos,North
+This,BS1m2,NA,NA,-14.6,Barranco Santos,North
+This,BS2m,10.75,-19.99,-13.47,Barranco Santos,North
+This,BS3m,10.59,-19.4,-14.53,Barranco Santos,North
+This,BS4m,10.28,-19.56,-14.07,Barranco Santos,North
+This,CA1h,10.41,-19.77,-15.76,Cruz de las Animas,North
+This,CA2h,12.18,-19.04,-15.39,Cruz de las Animas,North
+This,CA3h,11.9,-19.64,-15.24,Cruz de las Animas,North
+This,CA4h,12.57,-19.53,-14.74,Cruz de las Animas,North
+This,CA5h,11.16,-19.39,-15,Cruz de las Animas,North
+This,CA6h,13.2,-18.77,-15.02,Cruz de las Animas,North
+This,CA7h,11.31,-19.32,-14.89,Cruz de las Animas,North
+This,HF10m,11.23,-20.11,-13.35,Hoya Fria,North
+This,HF11t,10.65,-20.01,-15.84,Hoya Fria,North
+This,HF12t,10.9,-19.93,-15.14,Hoya Fria,North
+This,HF13t,11.2,-20.25,-15.64,Hoya Fria,North
+This,HF14t,10.92,-19.65,-15.81,Hoya Fria,North
+This,HF15t,11.1,-18.83,-15.61,Hoya Fria,North
+This,HF16t,10.63,-19.89,-15.78,Hoya Fria,North
+This,HF17t,9.99,-19.9,-15.55,Hoya Fria,North
+This,HF18t,10.26,-19.9,-14.65,Hoya Fria,North
+This,HF19t,10.03,-19.42,-15.39,Hoya Fria,North
+This,HF1m,12.23,-18.6,-13.91,Hoya Fria,North
+This,HF20t,11.36,-19.34,-14.49,Hoya Fria,North
+This,HF2m,NA,NA,-13.57,Hoya Fria,North
+This,HF3m,10.53,-19.8,-14.24,Hoya Fria,North
+This,HF4m,11.48,-18.8,-15.18,Hoya Fria,North
+This,HF5m,11.01,-19.45,-14.72,Hoya Fria,North
+This,HF6m,11.59,-18.99,-14.76,Hoya Fria,North
+This,HF7m,12.04,-18.25,-14.37,Hoya Fria,North
+This,HF8m,NA,NA,-14.22,Hoya Fria,North
+This,HF9m,10.72,-19.64,-13.6,Hoya Fria,North
+This,MG10m,10.05,-19.01,-14.59,Mt Guerra,North
+This,MG11pm,NA,NA,-13.86,Mt Guerra,North
+This,MG1h,9.88,-20.23,-13.86,Mt Guerra,North
+This,MG2h,11.33,-19.22,-14.89,Mt Guerra,North
+This,MG3h,12.28,-18.92,-15.15,Mt Guerra,North
+This,MG4h,10.96,-18.95,-15.7,Mt Guerra,North
+This,MG5h,11.62,-18.49,-15.17,Mt Guerra,North
+This,MG6h,12.7,-18.69,-14.67,Mt Guerra,North
+This,MG7m,NA,NA,-14.14,Mt Guerra,North
+This,MG8m,13.17,-20.14,-14.52,Mt Guerra,North
+This,MG9m,NA,NA,-13.35,Mt Guerra,North
+This,MJG10f,9.79,-20.48,-15.17,Majagora,South
+This,MJG1f,9.74,-19.89,-14.78,Majagora,South
+This,MJG2f,9.99,-19.1,-14.99,Majagora,South
+This,MJG3f,9.63,-19.36,-14.52,Majagora,South
+This,MJG4f,10.25,-19.67,-14.81,Majagora,South
+This,MJG5f,11.06,-19.06,-14.98,Majagora,South
+This,MJG6f,10.01,-19.12,-15.84,Majagora,South
+This,MJG7f,11.83,-18.69,-14.68,Majagora,South
+This,MJG8f,11.78,-18.95,-15.84,Majagora,South
+This,MJG9f,9.99,-19.4,-15.32,Majagora,South
+This,MP10m,NA,NA,-12.96,Maspalomas,South
+This,MP11t,11.84,-18.64,-11.33,Maspalomas,South
+This,MP12t,10.83,-18.28,-9.25,Maspalomas,South
+This,MP13f,10.56,-19.23,-13.63,Maspalomas,South
+This,MP14f,12.7,-18.3,-12.57,Maspalomas,South
+This,MP15f,10.74,-19.77,-13.53,Maspalomas,South
+This,MP16f,10.76,-19.75,-10.29,Maspalomas,South
+This,MP17f,10.04,-19.64,-12.69,Maspalomas,South
+This,MP18f,11.24,-19.66,-9.87,Maspalomas,South
+This,MP19h,11.19,-19.34,-11.05,Maspalomas,South
+This,MP1m,NA,NA,-12.69,Maspalomas,South
+This,MP20f,10.56,-18.75,-13.61,Maspalomas,South
+This,MP2m,NA,NA,-12.91,Maspalomas,South
+This,MP3m,NA,NA,-13.41,Maspalomas,South
+This,MP4m,NA,NA,-13.1,Maspalomas,South
+This,MP5m,NA,NA,-14.04,Maspalomas,South
+This,MP6m,NA,NA,-12.63,Maspalomas,South
+This,MP7m,NA,NA,-13.29,Maspalomas,South
+This,MP8m,NA,NA,-12.61,Maspalomas,South
+This,MP9m,NA,NA,-13.45,Maspalomas,South
+This,PY1m,NA,NA,-13.4,Pico Yeje,North
+This,PY2r,10.74,-19.42,-15.86,Pico Yeje,North
+This,PY3r,11.31,-19.01,-15.1,Pico Yeje,North
+This,PY4r,13.51,-18.76,-15.09,Pico Yeje,North
+This,PY5r,12.36,-18.58,-14.83,Pico Yeje,North
+This,PY6r,10.34,-19.76,-15.65,Pico Yeje,North
+This,RP10f,12.63,-18.55,-14.66,Risco del Perro,North
+This,RP11f,11.43,-19.17,-14.06,Risco del Perro,North
+This,RP12f,10.09,-19.29,-13.55,Risco del Perro,North
+This,RP13f,12.17,-18.57,-12.78,Risco del Perro,North
+This,RP1m,12.15,-18.89,-13.94,Risco del Perro,North
+This,RP2m,NA,NA,-13.87,Risco del Perro,North
+This,RP3m,11.35,-18.87,-14.74,Risco del Perro,North
+This,RP4m,10.74,-19.87,-13.08,Risco del Perro,North
+This,RP5f,9.49,-19.58,-15.26,Risco del Perro,North
+This,RP6f,11.42,-19.57,-15.06,Risco del Perro,North
+This,RP7f,10.76,-19.31,-16.07,Risco del Perro,North
+This,RP8f,11.73,-19.42,-14.82,Risco del Perro,North
+This,RP9f,9.55,-19.52,-14.61,Risco del Perro,North
+Tieszen,TSZNMN01,9.4,-19.7,-14.1,Majagora,North
+Tieszen,TSZNMN02,10.2,-19.4,-15,Hoya Fria,North
+Tieszen,TSZNMN03,9.3,-19.8,-15.2,Los Guanches,North
+Tieszen,TSZNMN04,8.3,-19.8,-14.8,Los Lorros,North
+Tieszen,TSZNMN05,8.8,-19.9,-15,La Florida,North
+Tieszen,TSZNMN06,8.8,-19.8,-14.7,Masape,North
+Tieszen,TSZNMN07,9.7,-19.5,-14.9,Uchova,South
+This,UV10m,11.19,-19.24,-13.72,Uchova,South
+This,UV11m,10.07,-19.56,-12.75,Uchova,South
+This,UV12m,11.14,-19.53,-14.25,Uchova,South
+This,UV13m,13.13,-19,-13.45,Uchova,South
+This,UV14m,12.24,-18.71,-13.26,Uchova,South
+This,UV15m,NA,NA,-14.26,Uchova,South
+This,UV1f,12.89,-19.12,-16.16,Uchova,South
+This,UV2f,12.35,-18.96,-15.45,Uchova,South
+This,UV3f,11.41,-18.69,-15.41,Uchova,South
+This,UV4f,12.09,-18.24,-16.06,Uchova,South
+This,UV5f,13.33,-18.99,-14.99,Uchova,South
+This,UV6f,12.09,-18.48,-15.99,Uchova,South
+This,UV7m,12.17,-18.8,-14.26,Uchova,South
+This,UV8m,12.32,-19.81,-13.25,Uchova,South
+This,UV9pm,NA,NA,-13.76,Uchova,South
