@@ -2,7 +2,7 @@
 
 This repository contains all R scripts and data used in the publication:
 
-**[PUT YOUR FULL PAPER TITLE HERE]**
+**Beyond bone collagen: Multi-tissue stable isotope reconstruction of prehispanic archaeological human diets in the Canary Islands**
 *Paloma Cuello del Pozo*
 
 ## Repository Structure
